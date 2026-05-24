@@ -1,0 +1,17 @@
+{
+  "name": "rcb-fan-website",
+  "version": "1.0.0",
+  "description": "Royal Challengers Bangalore Fan Website with Node.js backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["rcb", "ipl", "cricket", "fan-website"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "lowdb": "^1.0.0"
+  }
+}
