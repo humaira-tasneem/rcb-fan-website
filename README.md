@@ -42,7 +42,7 @@ rcb-fan-website/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/rcb-fan-website.git
+git clone https://github.com/humaira-tasneem/rcb-fan-website.git
 
 # 2. Go into the project folder
 cd rcb-fan-website
